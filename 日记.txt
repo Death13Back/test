@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 afdasfsaf
 alter a bug
+=======
+qwewr12
+>>>>>>> parent of 512800e... Update 日记.txt
